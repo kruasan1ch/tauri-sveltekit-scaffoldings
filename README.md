@@ -8,6 +8,7 @@ Once you've created a project and installed dependencies with `npm install` (or 
 
 ```bash
 yarn tauri dev
+```
 
 ## Building
 
